@@ -2,7 +2,7 @@
 
 ### ✨ | Advent JS - Nora Rodriguez
 
-I have started my Adventjs's challenge journey. Day one.
+Excited I've started my Adventjs's challenge journey. Day one.
 
 <img src='https://user-images.githubusercontent.com/94259578/205131298-f8a55888-6bd6-4445-af8d-4dbb7af3236b.png'/>
 
