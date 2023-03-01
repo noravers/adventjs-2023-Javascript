@@ -2,6 +2,8 @@
 
 ### ✨ | Advent JS - Nora Rodriguez
 
+I have started my Adventjs's challenge journey. Day one.
+
 <img src='https://user-images.githubusercontent.com/94259578/205131298-f8a55888-6bd6-4445-af8d-4dbb7af3236b.png'/>
 
 
@@ -42,7 +44,7 @@
 
 My name is Nora Rodriguez, web developer who enjoys to figure out how to build things and create solutions using React, Nodejs and Typescript.
 
-### ❤️ | Acknowledgements
+### 😊 | Acknowledgements
 
 <a href='https://twitter.com/midudev'>@midudev</a> for creating and sharing his knowledge with the DEV community
 
