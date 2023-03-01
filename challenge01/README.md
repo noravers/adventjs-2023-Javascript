@@ -1,8 +1,6 @@
 ## Instructions
-
-------
 ---
--
+---
 
 The elves bought a gift-wrapping machine this year. But it's not programmed! We need to create an algorithm that helps it in the task.
 
