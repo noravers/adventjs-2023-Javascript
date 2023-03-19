@@ -33,6 +33,7 @@ getFilesToBackup(lastBackup, changes) // => [ 1, 3 ]
 
 // We have to make a backup
 // of the files 1 and 3.
+
 ```
 
 **Remember that:**
